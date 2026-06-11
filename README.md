@@ -1,3 +1,5 @@
+##Live Demo
+[view Live DEmo](https://smart-habit-tracker-chi.vercel.app/)
 # Smart Habit Tracker
 
 A habit tracking web application built using HTML, CSS, and JavaScript.
